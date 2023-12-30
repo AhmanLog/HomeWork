@@ -1,0 +1,24 @@
+div{
+    color: red;
+}
+.block {
+    color: green;
+}
+.block3,.block4,.block5 {
+    color:orange;
+}
+[data-example] {
+    color: aqua;
+}
+[data-example="value2"] {
+    color: salmon;
+}
+div.blue-block {
+    color: blue;
+}
+div .orange{
+    color: magenta;
+}
+.perent> .child{
+    color: khaki;
+}
